@@ -1,5 +1,5 @@
 {
-  "name": "reactexpress",
+  "name": "jr-dev",
   "version": "1.0.0",
   "description": "Starter kit for creating React and Express apps",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Cristian Machuca",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.14.6"

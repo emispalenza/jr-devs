@@ -3,14 +3,11 @@ const cors = require('cors');
 
 const app = express();
 
-app.get('/api/customers', cors(), (req, res) => {
-  const customers = [
-    {id: 1, firstName: 'John', lastName: 'Doe'},
-    {id: 2, firstName: 'Brad', lastName: 'Traversy'},
-    {id: 3, firstName: 'Mary', lastName: 'Swanson'},
+app.get('/api/test', cors(), (req, res) => {
+  const test = [
+    {id: 1, firstName: 'Cristian', lastName: 'Machuca'},   
   ];
-
-  res.json(customers);
+  res.json(test);
 });
 
 const port = 5000;

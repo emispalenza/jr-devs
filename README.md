@@ -1,43 +1,12 @@
-# React Express Starter Pack
+jr-dev
+Jr-dev Proyect
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
+Hola!
 
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
+Este repo es para empezar a trabajar en nuestra propia web, la que podremos probar despues en un hosting. Por ahora, necesitamos empezar a diseñarla y darle funcionalidad.
 
-## Quick Start
+Aca van a encontrar React y Node listos para usar con Express. Luego vamos a agregar alguna DB.
 
-``` bash
-# Install dependencies for server
-npm install
+Gracias por sumarse a esta idea de Jr-dev!
 
-# Install dependencies for client
-npm run client-install
-
-# Run the client & server with concurrently
-npm run dev
-
-# Run the Express server only
-npm run server
-
-# Run the React client only
-npm run client
-
-# Server runs on http://localhost:5000 and client on http://localhost:3000
-```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
+Cristian Machuca.
